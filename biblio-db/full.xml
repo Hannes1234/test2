@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	<USER ID="1" NAME="Adalbert Alt" STATE="Normal" />
+	<USER ID="2" NAME="Berta Brettschneider" STATE="Gesperrt" />
+	<USER ID="3" NAME="Charly Corleone" STATE="Gesperrt" />
+	<USER ID="4" NAME="Daniela Dornhagen" STATE="Normal" />
+	<GEBUEHR USERID="2" TEXT="Ersatz verlorenes Buch" AMOUNT="500" />
+	<GEBUEHR USERID="2" TEXT="Überziehung" AMOUNT="100" />
+	<GEBUEHR USERID="3" TEXT="Überziehung" AMOUNT="200" />
+	<BUCH ID="1" AUTOR="Karl Kaos" TITEL="Lost and Found" STATUS="Verloren" />
+	<BUCH ID="2" AUTOR="Lars Lehmann" TITEL="Herr L." STATUS="Frei" />
+	<BUCH ID="3" AUTOR="Malte Mohn" TITEL="Klatsch" STATUS="Ausgeliehen" />
+</dataset>
